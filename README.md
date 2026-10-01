@@ -2,7 +2,7 @@
 
 A machine learning project demonstrating **Linear Discriminant Analysis (LDA)** classification using a synthetic dataset containing **2,000 samples and 6 features**.
 
-The project is based on Example 3.8 and modifies the original implementation to work with a larger dataset and a higher number of features.
+The project modifies the original implementation to work with a larger dataset and a higher number of features.
 
 ## Overview
 
